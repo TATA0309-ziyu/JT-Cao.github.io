@@ -22,13 +22,13 @@ Email：jtcao11@163.com
 2. 国家自然科学基金青年基金项目1项（主持）
 3. 河南省高校科技创新人才支持计划项目（主持）
 4. 河南省高校青年骨干教师支持计划项目（主持）
-5．河南省科技发展计划项目1项（主持）
-6．河南省教育厅科技攻关项目1项（主持）
-7．南京大学“生命分析化学国家重点实验室”开放课题（主持）
+5. 河南省科技发展计划项目1项（主持）
+6. 河南省教育厅科技攻关项目1项（主持）
+7. 南京大学“生命分析化学国家重点实验室”开放课题（主持）
 8. 河南省高校科技创新团队支持计划（参与）
    
 期刊论文：
-1.Xue Bo Hu, Yu-Ling Wang, Jing-Lu Lv, Meng Yuan Zheng, Shu-Hui Ma, Jun-Tao Cao*,Yan-Ming Liu, A chemical redox cycling-based dual-mode biosensor for self-powered photoelectrochemical and colorimetric assay of heat shock protein. ACS SENSORS, 2025, 10(1), 196-203.
+1. Xue Bo Hu, Yu-Ling Wang, Jing-Lu Lv, Meng Yuan Zheng, Shu-Hui Ma, Jun-Tao Cao*,Yan-Ming Liu, A chemical redox cycling-based dual-mode biosensor for self-powered photoelectrochemical and colorimetric assay of heat shock protein. ACS SENSORS, 2025, 10(1), 196-203.
 2. Zi Hui Gao, Yu-Ling Wang, Shu-Hui Ma, Jun-Tao Cao*, Yan-Ming Liu, A photoelectrochemical sensor for glutathione detection based on a target-triggered etching strategy. Journal of Analysis and Testing, 2025, 9(2), 263-271.
 3. Pan Wu, Yu-Ling Wang, Kang Zhe Cao, Yu-Ling Wang,  Nanozyme-mediated signal amplification on g-c3n4/nabio3 z-scheme heterojunction photoelectrode toward ultrasensitive photoelectrochemical immunoassay for prostate-specific antigen. Sensors and Actuators B: Chemical, 2024, 418(000), 9.
 4. Hui Jin Xiao, Yu-Ling Wang, Cheng Jun Liu, Zi Hui Gao, Shu wei Ren, Jun-Tao Cao*, Yan-Ming Liu, Liposome-mediated in situ formation of ag3po4/agbr/br-cn ternary nanostructures on photoanodes for photoelectrochemical immunoassay. ACS Applied Nano Materials. 2023, 6, 6496−6503.
