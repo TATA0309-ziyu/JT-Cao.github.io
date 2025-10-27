@@ -2,6 +2,7 @@
 
 研究领域：
 生物分子灵敏检测方法（化学发光、电化学发光和光电化学）建立及便携式检测器件开发
+
 联系方式：
 联系地址：信阳市长安路237号化学实验楼324
 Email：jtcao11@163.com
@@ -19,13 +20,13 @@ Email：jtcao11@163.com
 6. 河南省教育厅科技攻关项目1项（主持）
 7. 南京大学“生命分析化学国家重点实验室”开放课题（主持）
 8. 河南省高校科技创新团队支持计划（参与）
-   
+
 期刊论文：
 1. Xue Bo Hu, Yu-Ling Wang, Jing-Lu Lv, Meng Yuan Zheng, Shu-Hui Ma, Jun-Tao Cao*,Yan-Ming Liu, A chemical redox cycling-based dual-mode biosensor for self-powered photoelectrochemical and colorimetric assay of heat shock protein. ACS SENSORS, 2025, 10(1), 196-203.
 2. Zi Hui Gao, Yu-Ling Wang, Shu-Hui Ma, Jun-Tao Cao*, Yan-Ming Liu, A photoelectrochemical sensor for glutathione detection based on a target-triggered etching strategy. Journal of Analysis and Testing, 2025, 9(2), 263-271.
 3. Pan Wu, Yu-Ling Wang, Kang Zhe Cao, Yu-Ling Wang,  Nanozyme-mediated signal amplification on g-c3n4/nabio3 z-scheme heterojunction photoelectrode toward ultrasensitive photoelectrochemical immunoassay for prostate-specific antigen. Sensors and Actuators B: Chemical, 2024, 418(000), 9.
 4. Hui Jin Xiao, Yu-Ling Wang, Cheng Jun Liu, Zi Hui Gao, Shu wei Ren, Jun-Tao Cao*, Yan-Ming Liu, Liposome-mediated in situ formation of ag3po4/agbr/br-cn ternary nanostructures on photoanodes for photoelectrochemical immunoassay. ACS Applied Nano Materials. 2023, 6, 6496−6503.
 5. Jun-Tao Cao*, Jing-Lu Lv, Xiao-Jing Liao, Shu-Hui Ma, and Yan-Ming Liu,* A membraneless self-powered photoelectrochemical biosensor based on Bi2S3/BiPO4 heterojunction photoanode coupling with redox cycling signal amplification strategy, Biosensors and Bioelectronics, 2022, 195, 113651.
-6. Bing Wang, Yi-Tong Xu, Jing-Lu Lv, Tie-Ying Xue, Shu-Wei Ren, Jun-Tao Cao,* Yan-Ming Liu, and Wei-Wei Zhao,* Analytical Chemistry, 2019, 91, 3768−3772.
-7. Bing Wang, Li-Ping Mei, Yan Ma, Yi-Tong Xu, Shu-Wei Ren, Jun-Tao Cao,* Yan-Ming Liu, and Wei-Wei Zhao*, Analytical Chemistry,2018, 90, 12347-12351.
-8. Jun-Tao Cao,* Yu-Ling Wang, Jing-Jing Zhang, Yu-Xiang Dong, Fu-Rao Liu, Shu-Wei Ren, Yan-Ming Liu*, Analytical Chemistry, 2018, 90, 10334-10339.
+6. Bing Wang, Yi-Tong Xu, Jing-Lu Lv, Tie-Ying Xue, Shu-Wei Ren, Jun-Tao Cao,* Yan-Ming Liu, and Wei-Wei Zhao,* Ru(NH3)63+/Ru(NH3)62+-mediated redox cycling: Toward enhanced triple signal amplification for photoelectrochemical immunoassay. Analytical Chemistry, 2019, 91, 3768−3772.
+7. Bing Wang, Li-Ping Mei, Yan Ma, Yi-Tong Xu, Shu-Wei Ren, Jun-Tao Cao,* Yan-Ming Liu, and Wei-Wei Zhao*, Photoelectrochemical-chemical-chemical redox cycling for advanced signal amplification: Proof-of-Concept toward ultrasensitive photoelectrochemical bioanalysis. Analytical Chemistry,2018, 90, 12347-12351.
+8. Jun-Tao Cao,* Yu-Ling Wang, Jing-Jing Zhang, Yu-Xiang Dong, Fu-Rao Liu, Shu-Wei Ren, Yan-Ming Liu*, Photogenerated hole-induced chemical redox cycling on Bi2S3/Bi2Sn2O7 heterojunction: Toward general amplified split-type photoelectrochemical immunoassay. Analytical Chemistry, 2018, 90, 10334-10339.
