@@ -26,6 +26,7 @@ Email：jtcao11@163.com
 6．河南省教育厅科技攻关项目1项（主持）
 7．南京大学“生命分析化学国家重点实验室”开放课题（主持）
 8. 河南省高校科技创新团队支持计划（参与）
+   
 期刊论文：
 1.Xue Bo Hu, Yu-Ling Wang, Jing-Lu Lv, Meng Yuan Zheng, Shu-Hui Ma, Jun-Tao Cao*,Yan-Ming Liu, A chemical redox cycling-based dual-mode biosensor for self-powered photoelectrochemical and colorimetric assay of heat shock protein. ACS SENSORS, 2025, 10(1), 196-203.
 2. Zi Hui Gao, Yu-Ling Wang, Shu-Hui Ma, Jun-Tao Cao*, Yan-Ming Liu, A photoelectrochemical sensor for glutathione detection based on a target-triggered etching strategy. Journal of Analysis and Testing, 2025, 9(2), 263-271.
