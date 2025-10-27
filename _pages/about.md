@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 曹俊涛， 1983 年 7 月生， 博士， 教授， 博士生导师， 河南省高层次人才（C 类人才） ，中原千人计划－中原青年拔尖人才， 河南省学术技术带头人， 河南省教育厅学术技术带头人， 河南省高校科技创新人才， 河南省高等学校优秀共产党员、 全国教育硕士优秀教学管理工作者、 河南省高等学校青年骨干教师， 河南省优秀硕士学位论文指导教师， 入选南湖学者奖励计划 A 类人才。
 
 研究领域：
