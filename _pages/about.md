@@ -7,50 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+曹俊涛， 1983 年 7 月生， 博士， 教授， 博士生导师， 河南省高层次人才（C 类人才） ，
+中原千人计划－中原青年拔尖人才， 河南省学术技术带头人， 河南省教育厅学术技术带头人， 河南省高校科技创新人才， 河南省高等学校优秀共产党员、 全国教育硕士优秀教学管理工作者、 河南省高等学校青年骨干教师， 河南省优秀硕士学位论文指导教师， 入选南湖学者奖励计划 A 类人才。
+研究领域：
+生物分子灵敏检测方法（化学发光、电化学发光和光电化学）建立及便携式检测器件开发
+联系方式：
+联系地址：信阳市长安路237号化学实验楼324
+Email：jtcao11@163.com
+主研方向：
+1.微纳体系中生物分子界面行为及光电纳米传感研究；
+2.便携式微器件生物传感研究。
+科研项目：
+1. 国家自然科学基金面上项目3项 （主持1项，参与2项）
+2. 国家自然科学基金青年基金项目1项（主持）
+3. 河南省高校科技创新人才支持计划项目（主持）
+4. 河南省高校青年骨干教师支持计划项目（主持）
+5．河南省科技发展计划项目1项（主持）
+6．河南省教育厅科技攻关项目1项（主持）
+7．南京大学“生命分析化学国家重点实验室”开放课题（主持）
+8. 河南省高校科技创新团队支持计划（参与）
+期刊论文：
+1.Xue Bo Hu, Yu-Ling Wang, Jing-Lu Lv, Meng Yuan Zheng, Shu-Hui Ma, Jun-Tao Cao*,Yan-Ming Liu, A chemical redox cycling-based dual-mode biosensor for self-powered photoelectrochemical and colorimetric assay of heat shock protein. ACS SENSORS, 2025, 10(1), 196-203.
+2. Zi Hui Gao, Yu-Ling Wang, Shu-Hui Ma, Jun-Tao Cao*, Yan-Ming Liu, A photoelectrochemical sensor for glutathione detection based on a target-triggered etching strategy. Journal of Analysis and Testing, 2025, 9(2), 263-271.
+3. Pan Wu, Yu-Ling Wang, Kang Zhe Cao, Yu-Ling Wang,  Nanozyme-mediated signal amplification on g-c3n4/nabio3 z-scheme heterojunction photoelectrode toward ultrasensitive photoelectrochemical immunoassay for prostate-specific antigen. Sensors and Actuators B: Chemical, 2024, 418(000), 9.
+4. Hui Jin Xiao, Yu-Ling Wang, Cheng Jun Liu, Zi Hui Gao, Shu wei Ren, Jun-Tao Cao*, Yan-Ming Liu, Liposome-mediated in situ formation of ag3po4/agbr/br-cn ternary nanostructures on photoanodes for photoelectrochemical immunoassay. ACS Applied Nano Materials. 2023, 6, 6496−6503.
+5. Jun-Tao Cao*, Jing-Lu Lv, Xiao-Jing Liao, Shu-Hui Ma, and Yan-Ming Liu,* A membraneless
+self-powered photoelectrochemical biosensor based on Bi2S3/BiPO4 heterojunction photoanode
+coupling with redox cycling signal amplification strategy, Biosensors and Bioelectronics, 2022, 195, 113651.
+6. Bing Wang, Yi-Tong Xu, Jing-Lu Lv, Tie-Ying Xue, Shu-Wei Ren, Jun-Tao Cao,* Yan-Ming Liu, and Wei-Wei Zhao,*Analytical Chemistry, 2019,DOI: 10.1021/acs.analchem.8b05129
+7. Bing Wang, Li-Ping Mei, Yan Ma, Yi-Tong Xu, Shu-Wei Ren, Jun-Tao Cao,* Yan-Ming Liu, and Wei-Wei Zhao*, Analytical Chemistry,2018, 90, 12347-12351.
+8. Jun-Tao Cao,* Yu-Ling Wang, Jing-Jing Zhang, Yu-Xiang Dong, Fu-Rao Liu, Shu-Wei Ren, Yan-Ming Liu*, Analytical Chemistry, 2018, 90, 10334-10339.
